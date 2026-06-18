@@ -4,7 +4,7 @@
 
 # K-Vault
 
-> 免费图片/文件托管解决方案，支持 Cloudflare Pages + Docker 双模部署，并兼容多种存储后端
+> 免费图片/文件托管解决方案，支持 Cloudflare Pages + Docker 双模部署，并兼容多种存储后端 
 
 [English](README-EN.md) | **中文**
 
